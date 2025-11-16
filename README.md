@@ -73,9 +73,9 @@
     * `LR`: 1e-3
     * `WEIGHT_DECAY`: 1e-5
 * **Node2Vec**
-    * `N2V_DIM`: 128
-    * `N2V_WALK_LEN`: 20
-    * `N2V_NUM_WALKS`: 50
+    * `N2V_DIM`: 256
+    * `N2V_WALK_LEN`: 30
+    * `N2V_NUM_WALKS`: 75
     * `N2V_P`: 1.0
     * `N2V_Q`: 0.75
 * **CARE-TopK**
