@@ -27,7 +27,7 @@
 強烈建議使用 `conda` 或 `virtualenv` 建立虛擬環境。
 
 1.  **安裝 PyTorch (cu121)**
-    （此步驟對應您 Notebook 中的 PyG 特定安裝指令）
+    （此步驟對應 Notebook 中的 PyG 特定安裝指令）
     ```bash
     # (如果環境中有舊版，先卸載)
     # pip uninstall -y torch torchvision torchaudio torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric pyg-lib
